@@ -1,0 +1,6 @@
+gemini_key= "YOUR-API-KEY"
+openai_key = "YOUR-API-KEY"
+openai_organization_id = "YOUR-API-KEY"
+openai_project_id = "YOUR-API-KEY"
+anthropic_key = "YOUR-API-KEY"
+finetune_model_name = "YOUR-API-KEY"

@@ -1,0 +1,6 @@
+google-cloud-texttospeech
+requests
+openai
+moviepy
+anthropic
+inquirer
